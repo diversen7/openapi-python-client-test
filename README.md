@@ -1,6 +1,14 @@
-# Test
+# openapi-python-client test
+This is a test of openapi-python-client
 
+https://github.com/openapi-generators/openapi-python-client
+
+# Test on swagger
+https://petstore3.swagger.io/#/
+
+# Endpoint swagger
 https://petstore3.swagger.io/
+
 
 # swagger-petstore-open-api-3-0-client
 A client library for accessing Swagger Petstore - OpenAPI 3.0
