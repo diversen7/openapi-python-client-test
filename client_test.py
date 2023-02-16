@@ -19,5 +19,3 @@ pet.id = 1001
 pet.name = 'Dennis The Second Dish Fish'
 update_pet.sync(client=client, form_data=pet, json_body=pet)
 
-
-
